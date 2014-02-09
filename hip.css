@@ -1,0 +1,48 @@
+body {
+   background-color:#dbebdb;  
+}
+
+.lhs {
+    position:static;
+    width:58%;
+    left:1%;
+}
+
+.rhs {
+    position:fixed;
+    right:1%;
+}
+
+#frame {
+    top:10%;
+    height:80%;
+    width:39%;
+}
+
+#restoreGraph { 
+    top:90%; 
+    
+}
+
+h1 { 
+    text-align:center;
+    width:100%;
+}
+
+h3 { 
+    text-align:center; 
+    width:58%;
+}
+
+a:link { text-decoration:none; }
+a:hover { text-decoration:underline; }
+a.mail:link { color:#9183A3; }
+a.project:link {color:#8A3D33;}
+
+.picButton {
+   position:relative;
+   left:90%;
+   color:#fcfcfc;
+   background-color:#c9b67d;
+
+}
